@@ -56,5 +56,6 @@ The class polynom supports some functions as:
 - polynom(string): every input is valid (ax^b) without &quot;\*&quot;
 
 ### **To show the polynom graph we use drawFunctions(…) function**
-
-![img]https://github.com/LaraBulus/OOP_1_2/blob/master/Functions_GUI.jpg)
+<br>
+<img src="https://github.com/LaraBulus/OOP_1_2/blob/master/Functions_GUI.jpg",c_limit/so-logo-s.jpg" width="250">
+<br>
