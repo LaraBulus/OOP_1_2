@@ -57,5 +57,5 @@ The class polynom supports some functions as:
 
 ### **To show the polynom graph we use drawFunctions(…) function**
 <br>
-<img src="https://github.com/LaraBulus/OOP_1_2/blob/master/Functions_GUI.jpg",c_limit/so-logo-s.jpg" width="250">
+<img src="https://github.com/LaraBulus/OOP_1_2/blob/master/Functions_GUI.jpg",c_limit/so-logo-s.jpg" width="500">
 <br>
