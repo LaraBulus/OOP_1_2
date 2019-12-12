@@ -57,22 +57,22 @@ The class polynom supports some functions as:
 
  # example of every class : 
   
-   1) 
-      Monom Class:
-      Monom m = new Monom("2x^3");
-      double fx = m.f(1); //f(1) = 8
+   
+   -   Monom Class:
+       Monom m = new Monom("2x^3");
+       double fx = m.f(1); //f(1) = 8
 
-      Polynom Class:
-      Polynom p = new Polynom("x+4-x^2");
-      double fx = p.f(3); //f(3) = -2
+       Polynom Class:
+       Polynom p = new Polynom("x+4-x^2");
+       double fx = p.f(3); //f(3) = -2
 
-      ComplexFunction Class:
-      String s = "mul(plus(-1.0x^4+2.4x^2+3.1,+0.1x^5-1.2999999999999998x+5.0),-1.0x^4+2.4x^2+3.1)";
-      function f = new ComplexFunction().initFromString(s);
+       ComplexFunction Class:
+       String s = "mul(plus(-1.0x^4+2.4x^2+3.1,+0.1x^5-1.2999999999999998x+5.0),-1.0x^4+2.4x^2+3.1)";
+       function f = new ComplexFunction().initFromString(s);
     
    
-   2) 
-      Monom Class:
+   
+   -  Monom Class:
       Monom m = new Monom("2x^3");
       double fx = m.f(1); //f(1) = 8
 
