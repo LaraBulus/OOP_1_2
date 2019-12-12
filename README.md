@@ -55,7 +55,7 @@ The class polynom supports some functions as:
 - is zero: checks if every coeff of the monoms in the polynom are 0
 - polynom(string): every input is valid (ax^b) without &quot;\*&quot;
 
- #example of every class : 
+ # example of every class : 
   
    1) 
       Monom Class:
@@ -87,11 +87,11 @@ The class polynom supports some functions as:
      
      
      
-       #More information about Monom:
+       # More information about Monom:
        https://hu.wikipedia.org/wiki/Monom
 
 
-       #More information about Polynom:
+       # More information about Polynom:
         https://de.wikipedia.org/wiki/Polynom
         
 ### **To show the polynom graph we use drawFunctions(…) function**
