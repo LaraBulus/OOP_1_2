@@ -57,7 +57,8 @@ The class polynom supports some functions as:
 
  #example of every class : 
   
-   1) Monom Class:
+   1) 
+      Monom Class:
       Monom m = new Monom("2x^3");
       double fx = m.f(1); //f(1) = 8
 
@@ -70,7 +71,8 @@ The class polynom supports some functions as:
       function f = new ComplexFunction().initFromString(s);
     
    
-   2) Monom Class:
+   2) 
+      Monom Class:
       Monom m = new Monom("2x^3");
       double fx = m.f(1); //f(1) = 8
 
